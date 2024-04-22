@@ -1,6 +1,6 @@
 # Blackflight Chess Engine
 
-![Blackflight Logo](blackflight_logo.png)
+<img src="blackflight-icon.png" alt="Blackflight Logo" width="200">
 
 Welcome to Blackflight, a bitboard-based chess engine incorporating Negamax along with quiescence search. Blackflight is currently estimated to have an Elo rating in the range of 2000-2200.
 
